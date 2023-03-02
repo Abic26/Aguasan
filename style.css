@@ -1,0 +1,52 @@
+body{
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-textura-agua-dulce-liquido-transparente_53876-142911.jpg);
+    /* background-repeat: no-repeat; */
+    background-size: 100%;    
+}
+.container{
+    
+    background-color: rgba(209, 207, 207, 0.767);
+    padding: 10px;
+    margin-top: 150px;
+    align-items: center;
+    width: 600px;
+    height: auto;
+    border-radius: 2px;
+}
+h1{
+    background: linear-gradient(90deg,#057af0,#147feba2 25%,#1f8fff71);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 2px;
+    padding: 5px;
+    
+}
+
+#nombre{
+    width: 100%;
+}
+.est{
+    width: 49%;
+    height: 30px;
+    float: left;
+    margin-top: 5px;
+}
+#consu{
+    width: 49%;
+    float: right;    
+    margin-top: 5px;
+}
+.btn{
+    width: 104.5%;
+    margin-left: -11px;
+    border: none;
+    
+}
+.calFac{
+    background-color: rgba(5, 105, 255, 0.404);
+    border-radius: 5px;
+}
+.calFac:hover{
+    background-color: #1f8fff
+}
+
+
